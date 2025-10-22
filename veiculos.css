@@ -12,13 +12,14 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgb(86, 41, 53);
+    color:rgb(0, 0, 0);
+    background-image: linear-gradient(to right, #da5984, #dddcdb92);
 }
 
 .input-group {
     display: flex;
     align-items: center;
-    background-color: rgb(145, 142, 144);
+    background-color: rgb(243, 237, 241);
     padding: 8px 16px 8px 8px;
     border-radius: 24px;
     gap: 8px;

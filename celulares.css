@@ -12,7 +12,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgb(27, 72, 97);
+    color:rgb(0, 0, 0);
+    background-image: linear-gradient(to right, #da5984, #dddcdb92);
 }
 
 .input-group {
